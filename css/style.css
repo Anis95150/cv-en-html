@@ -1,0 +1,37 @@
+h1{
+	margin: 0;
+	font-size: 20px;
+	color: white;
+
+}
+#Anis{
+	width: 1175px;
+background-color: powderblue;
+border-radius: 10px;
+border: outset white;
+}
+
+
+header p{
+	margin-top: 0;
+	font-weight: bold;
+}
+h2{
+	border-bottom: 2px solid;
+	color: white;
+}
+#Interet ul li{
+	 list-style-type: none;
+	 margin-left: 95px;
+	 font-weight: bold;
+}
+#Formation ul li{
+	font-weight: bold;
+}
+#Experiences ul li{
+	font-weight: bold;
+}
+body {
+	background-image: url("../image/balise.jpg");
+	background-size: 100% 100%;
+}:
